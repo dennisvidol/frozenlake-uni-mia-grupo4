@@ -21,6 +21,8 @@ FrozenLake es un entorno de aprendizaje por refuerzo en el que el agente se muev
 ## Funcionalidad Principal
 
 El programa incluye una **pantalla de selección de entorno** que permite al usuario elegir entre una cuadrícula de **4x4** o **8x8** para FrozenLake. Esta funcionalidad facilita explorar y probar diferentes configuraciones del entorno antes de iniciar el entrenamiento y la evaluación.
+![Image Alt]([image_url](https://github.com/dennisvidol/frozenlake-uni-mia-grupo4/blob/main/readmeFiles/FrozenLakeAmbiente.jpg?raw=true))
+![Image Alt]([image_url](https://github.com/dennisvidol/frozenlake-uni-mia-grupo4/blob/main/readmeFiles/FrozenLake8x8.jpg?raw=true))
 
 ---
 
